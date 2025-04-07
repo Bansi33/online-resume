@@ -1,5 +1,3 @@
-# Bruno Banek
-
 **Location:** Baneki 2, 10010 Buzin, Zagreb, Croatia  
 **Email:** [bruno.banek33@gmail.com](mailto:bruno.banek33@gmail.com)  
 **Phone:** +385 91 949 3806  
