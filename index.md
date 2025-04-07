@@ -1,76 +1,100 @@
 # Bruno Banek
 
-```
-Email: bruno.banek33@gmail.com
-Phone: +385 91 949 3806
-GitHub: github.com/Bansi33
-```
-## WORK EXPERIENCE
+**Location:** Baneki 2, 10010 Buzin, Zagreb, Croatia  
+**Email:** [bruno.banek33@gmail.com](mailto:bruno.banek33@gmail.com)  
+**Phone:** +385 91 949 3806  
+**GitHub:** [github.com/Bansi33](https://github.com/Bansi33)
 
-### Freelance Developer at BanSee Software, Zagreb, Croatia (Jan 2023 – Today)
-- optimizing rendering pipeline and implementing user visualization modes in a
-multi-user VR application (Holonet)
-  - (https://www.linkedin.com/company/holonetworld)
-- creating visual effects, custom shaders, and optimizing rendering for indie
-game Go Home Annie
-  - (https://store.steampowered.com/app/1939100/GoHomeAnnie/)
-- general development on the multi-user, cross-platform drone racing simulator
-  - (https://store.steampowered.com/app/641780/TheDroneRacingLeagueSimulator/)
+---
 
+## Summary
 
-### Senior Software Engineer at Delta Reality, Zagreb, Croatia (Dec 2020 – Jan 2023)
-- led a team of 10+ people in creating 30+ VR industrial trainings for one of
-the largest gas/oil companies in the world
-  - https://deltareality.com/project/linde-virtual-academy-handover-to-
-    maintenance/
-  - https://deltareality.com/project/linde-virtual-academy-vr-firefighting/
-  - https://deltareality.com/project/vr-work-at-height-training/
-- implemented rendering solution for displaying, loading, and streaming massive
-environments in HDRP for VR
+Senior Unity Developer & Graphics Programmer with 8+ years of experience building real-time 3D applications across VR, mobile, and PC. Strong background in shader development, rendering pipelines, and pushing the limits of GPUs. Passionate about visual fidelity, performance, and creating smooth, beautiful user experiences.
 
-### Software Engineer at Delta Reality, Zagreb, Croatia (Jun 2017 – Dec 2020)
-- created VR interactions for industrial training experiences
-- developed interactive VR and AR museum installations
-- created multi-user networked AR application for on-site facility tours (iOS)
-  - https://deltareality.com/project/vaillant-ar-facility-tour/
+---
 
-## SIDE PROJECTS
+## Core Skills
 
-### AR Cooking Application (Jan 2024 – Today)
-Creating a native application in Swift for VisionOS and iOS that enriches the cooking experience-
-ence in AR.
+- Creating scalable and robust Unity games/applications  
+- Shader development (HLSL/GLSL/Shader Graph)  
+- Real-time rendering optimization (mobile/VR/PC)  
 
-### Custom Render Engine (Jan 2020 – Jan 2021)
-Created a low-level rendering engine using PyOpenGL for rendering a 3D model of the
-KUKA robotic arm for an application that controls the robotic arm in real life.
+---
 
-### Spirit Sprint (Jun 2018 – Jul 2020)
-Solo-developed Spirit Sprint, an infinite runner for iOS and Android. Artist Mladen Boˇsnjak
-did models and animations. (Later sold to Usman Musaddiq)
+## Work Experience
 
-## EDUCATION
+### **Freelance Developer**  
+**BanSee Software, Zagreb, Croatia**  
+*Jan 2023 – Present*
 
-University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
+- Optimized rendering pipeline in a multi-user VR application ([Holonet](https://www.linkedin.com/company/holonetworld)), improving frame rate by 40% on Oculus Quest 2  
+- Created custom shaders and optimized rendering for indie game [Go Home Annie](https://store.steampowered.com/app/1939100/Go_Home_Annie/)  
+- Implemented perfectly synchronized, deterministic, moving networked objects in [Drone Racing League Simulator](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/)
 
-### MSc in Computer Science (Graduated with great honor (Magna Cum Laude) - top 5%)
-- thesis: Visualization of fire spread simulation
-  
-### BSc in Computer Science
-- thesis: Modeling and realistic visualization of human skin
-  
-## TECHNICAL SKILLS
+---
 
-### Advanced 
-- C#, Unity (Developing VR & AR applications)
-- HLSL, GLSL (programming shaders and advanced graphical features)
-  
-### Intermediate 
-- Swift (used in side projects developing native iOS and VisionOS applications)
-- C, C++ (used for writing Computer Vision algorithms using OpenCV)
-- Python, OpenGL (used in side projects for writing low-level rendering solutions)
+### **Senior Software Engineer**  
+**Delta Reality, Zagreb, Croatia**  
+*Dec 2020 – Jan 2023*
 
-### OTHER SKILLS AND INTERESTS
+- Led a team of 10+ in creating 30+ VR industrial trainings for a major gas/oil company  
+  - [Handover to Maintenance](https://deltareality.com/project/linde-virtual-academy-handover-to-maintenance/)  
+  - [Firefighting](https://deltareality.com/project/linde-virtual-academy-vr-firefighting/)  
+  - [Work at Height](https://deltareality.com/project/vr-work-at-height-training/)  
+- Built a streaming solution for massive environments in HDRP, enabling stutterless high-fidelity VR training
 
-Languages: Croatian (native), English (fluent)
-Interests: Shaders, Rendering, Advanced Visualizations, Graphics Optimizations, VR
+---
 
+### **Software Engineer**  
+**Delta Reality, Zagreb, Croatia**  
+*Sep 2019 – Dec 2020*
+
+- Created VR interactions for industrial training  
+- Developed interactive VR and AR museum installations  
+- Built a multi-user networked iOS AR application for on-site facility tours: [Vaillant AR Facility Tour](https://deltareality.com/project/vaillant-ar-facility-tour/)
+
+---
+
+### **Software Engineering Intern**  
+**Delta Reality, Zagreb, Croatia**  
+*Jun 2017 – Sep 2019*
+
+- Worked on virtual multi-user networking sessions with active face-tracking  
+- Developed interactive AR mobile apps for iOS and Android  
+
+---
+
+## Side Projects
+
+### **AR Cooking Application** *(Swift, VisionOS)*  
+*Jan 2024 – Today*  
+Experimenting with real-time interaction design and native AR rendering on VisionOS.
+
+---
+
+### **Custom Render Engine** *(Python, OpenGL)*  
+*Jan 2020 – Jan 2021*  
+Built from scratch in PyOpenGL. Focused on realistic lighting and skeletal animation of a KUKA robotic arm in an application that controls the robotic arm in real life.
+
+---
+
+### **Spirit Sprint** *(Unity, C#)*  
+*Jun 2018 – Jul 2020*  
+Solo-developed an infinite runner for iOS and Android using Unity and Addressables for dynamic content updates. Artist Mladen Bošnjak did models and animations.  
+- [App Store](https://apps.apple.com/us/app/spirit-sprint/id1598571702)  
+- Later sold to Usman Musaddiq
+
+---
+
+## Education
+
+**University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia**
+
+**MSc in Computer Science**  
+*Sep 2017 – Jul 2019*  
+- Graduated with great honor (Magna Cum Laude) - top 5%  
+- Thesis: *Visualization of fire spread simulation*
+
+**BSc in Computer Science**  
+*Sep 2014 – Jul 2017*  
+- Thesis: *Modeling and realistic visualization of human skin*
