@@ -25,9 +25,10 @@ Senior Unity Developer & Graphics Programmer with 8+ years of experience buildin
 **BanSee Software, Zagreb, Croatia**  
 *Jan 2023 – Present*
 
-- Optimized rendering pipeline in a multi-user VR application ([Holonet](https://www.linkedin.com/company/holonetworld)), improving frame rate by 40% on Oculus Quest 2  
-- Created custom shaders and optimized rendering for indie game [Go Home Annie](https://store.steampowered.com/app/1939100/Go_Home_Annie/)  
+- Implemented a custom crowd simulation system for upcoming game [BLACKWOOD](https://store.steampowered.com/app/3639070/BLACKWOOD/) 
 - Implemented perfectly synchronized, deterministic, moving networked objects in [Drone Racing League Simulator](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/)
+- Created custom shaders and optimized rendering for indie game [Go Home Annie](https://store.steampowered.com/app/1939100/Go_Home_Annie/)  
+- Optimized rendering pipeline in a multi-user VR application ([Holonet](https://www.linkedin.com/company/holonetworld)), improving frame rate by 40% on Oculus Quest 2  
 
 ---
 
@@ -65,7 +66,7 @@ Senior Unity Developer & Graphics Programmer with 8+ years of experience buildin
 ## Side Projects
 
 ### **AR Cooking Application** *(Swift, VisionOS)*  
-*Jan 2024 – Today*  
+*Jan 2024 – Mar 2025*  
 Experimenting with real-time interaction design and native AR rendering on VisionOS.
 
 ---
